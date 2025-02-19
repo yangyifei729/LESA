@@ -2,6 +2,8 @@
 
 Source code for "LESA: Learnable LLM Layer Scaling-Up".
 
+![image](assets/main_method.png)
+
 ## Recommended software environment
 - python == 3.10
 - torch == 2.1.2
